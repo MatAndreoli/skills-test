@@ -10,7 +10,13 @@
     {
       "name": "ruby-to-java-component-test-migration",
       "description": "Use when migrating Ruby Cucumber component test .feature files to Java integration tests",
-      "source": "./",
+      "source": "./skills/ruby-java",
+      "category": "productivity"
+    },
+    {
+      "name": "test",
+      "description": "Test skill for development purposes",
+      "source": "./skills/test",
       "category": "productivity"
     }
   ]
