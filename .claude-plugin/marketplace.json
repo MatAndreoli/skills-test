@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "skills-test",
+  "description": "Descrição do teu marketplace",
+  "owner": {
+    "name": "MatAndreoli",
+    "url": "https://github.com/MatAndreoli"
+  },
+  "plugins": [
+    {
+      "name": "ruby-to-java-component-test-migration",
+      "description": "Use when migrating Ruby Cucumber component test .feature files to Java integration tests",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
